@@ -1,2 +1,2 @@
 # compramigo
-Proyecto mercado
+Proyecto mercado interactivo para estudiantes de la UTM
